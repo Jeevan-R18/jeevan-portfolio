@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://jeevan-portfolio-six.vercel.app/sitemap.xml
+Sitemap: https://jeevan-r18.github.io/jeevan-portfolio/sitemap.xml
