@@ -2,7 +2,7 @@
 
 Personal portfolio website for **Jeevan R**, Cyber Security Engineer.
 
-🔗 **Live site:** https://jeevan-portfolio-six.vercel.app
+🔗 **Live site:** https://jeevan-r18.github.io/jeevan-portfolio/
 🔗 **Also hosted on GitHub Pages:** https://jeevan-r18.github.io/jeevan-portfolio/
 
 ## About
