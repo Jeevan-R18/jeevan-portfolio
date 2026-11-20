@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://jeevan-r18.github.io/jeevan-portfolio/",
+      "permanent": true
+    }
+  ]
+}
